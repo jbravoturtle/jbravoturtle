@@ -1,10 +1,8 @@
-👋 Hi, I'm Hristo Hristov!
-I'm a DevOps/Unix Engineer from Dupnitsa, Bulgaria, with a passion for turning complexity into seamless automation. With a strong foundation in cloud operations, performance monitoring, and scripting, I enjoy solving intricate problems with a hint of dark humor and a lot of technical know-how.
+👋 Hi, I'm Hristo Hristov
+I am a DevOps/Unix Engineer from Dupnitsa, Bulgaria, with a focus on cloud operations, performance monitoring, and automation. I strive to continuously improve my skills and contribute to building efficient, reliable systems through a thoughtful and collaborative approach.
 
 🚀 About Me
-Think of me as the IT enthusiast who makes automation look effortless—though not without a bit of squinting at the screen! My technical expertise spans cloud operations, infrastructure management, and DevOps practices. Despite occasionally mistaking C# for "Can't See #$%&," I thrive on scripting, automation, and performance optimization.
-
-I believe in blending technical prowess with humor, and if you're looking for someone who can navigate the tech maze with both sarcasm and skill, then let's connect!
+With experience in cloud environments, programming and system administration, I enjoy working on solutions that enhance performance, automate processes, and ensure system stability. I value teamwork and am always eager to learn from others while sharing my own knowledge to contribute to the success of the projects I work on.
 
 
 🌐 Connect with Me|
